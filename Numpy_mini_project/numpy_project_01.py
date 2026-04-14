@@ -1,3 +1,11 @@
+# 🔹 01. Sales Data Analysis (NumPy)
+# Monthly sales input
+# Total, average, max, min calculation
+# Best & worst month detection
+
+
+
+
 import numpy as n
 
 
