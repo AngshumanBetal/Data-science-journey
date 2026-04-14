@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Angshuman Betal**, a passionate learner exploring the world of **Data Science, Python, and Machine Learning**.
+I am **Angshuman Betal**, a passionate learner exploring the world of **Data Science, Python, Machine Learning, and Deep Learning**.
 
 I enjoy solving problems, analyzing data, and building projects that turn raw data into meaningful insights.
 
@@ -25,10 +25,43 @@ To become a skilled Data Scientist within 1 year by:
 
 ## 🧠 Skills & Learning
 
+### 📊 Programming & Data
+
 * Python Programming
-* NumPy & Data Manipulation
-* Data Analysis
-* Problem Solving
+* NumPy (Data Manipulation)
+* Pandas (Data Analysis)
+
+### 📈 Visualization
+
+* Matplotlib
+* Seaborn
+* Plotly
+
+### 🧮 Mathematics & Statistics
+
+* Linear Algebra
+* Probability
+* Statistics
+
+### 🗄️ Databases
+
+* SQL (Data Querying & Management)
+
+### 📊 BI Tools
+
+* Power BI
+* Tableau
+
+### 🤖 Machine Learning
+
+* Supervised & Unsupervised Learning
+* Regression & Classification
+
+### 🧠 Deep Learning
+
+* Neural Networks
+* CNN, RNN (Basics)
+* TensorFlow / PyTorch (Learning Phase)
 
 ---
 
@@ -36,14 +69,20 @@ To become a skilled Data Scientist within 1 year by:
 
 * Sales Data Analysis using NumPy
 * Monthly Performance Insights
-* More projects coming soon... 🚀
+* Data Visualization Projects
+* More coming soon... 🚀
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 * Python
-* NumPy
+* NumPy & Pandas
+* Matplotlib & Seaborn
+* SQL
+* Power BI & Tableau
+* Scikit-learn
+* TensorFlow / PyTorch
 * Git & GitHub
 
 ---
